@@ -15,6 +15,7 @@ class Cat {
 class Dog {
 
 + eat() : void
+
 }
 
 class Main
