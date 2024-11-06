@@ -12,7 +12,10 @@ class Cat {
 + eat() : void
 }
 
-class Dog
+class Dog {
+
++ eat() : void
+}
 
 class Main
 
